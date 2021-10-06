@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="noobtoons">
+</Property><Property Name="Solution File" Value="C:\Users\puyan\Desktop\noobtoons\noobtoons\noobtoons.sln">
+</Property><Property Name="Date" Value="Sunday, April 20, 2008">
+</Property><Property Name="Time" Value="13:14:41 PM">
+</Property></Properties><Event ErrorLevel="0" Project="libvlc-sharp" Source="..\libvlc-sharp\libvlc-sharp.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="libvlc-sharp" Source="..\libvlc-sharp\libvlc-sharp.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="libvlc-sharp" Source="..\libvlc-sharp\libvlc-sharp.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+# SharpDevelop 3.0.0.2970
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noobtoons", "noobtoons.csproj", "{B39F2034-060B-429C-A3C8-8D791E46B327}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inoobtoons", "inoobtoons\inoobtoons.csproj", "{E9CAD459-0758-4217-8ED0-96DF1F5EC68C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task-scheduler", "..\task-scheduler\task-scheduler.csproj", "{7FE00633-1B91-4143-B1A5-BF96B2ECA56E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "taglib-sharp", "..\taglib-sharp-2.0.2.0-windows\taglib-sharp.csproj", "{4CC18776-125E-4318-9D24-D60110AD9697}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libvlc-sharp", "..\libvlc-sharp\libvlc-sharp.csproj", "{DE57BEF3-3F2D-4BAF-824D-E3D7BC643F63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "noobtoons-backend", "noobtoons-backend\noobtoons-backend.csproj", "{FE19E12D-5E2D-4EF8-9BD9-05496CC1DDE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B39F2034-060B-429C-A3C8-8D791E46B327}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B39F2034-060B-429C-A3C8-8D791E46B327}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B39F2034-060B-429C-A3C8-8D791E46B327}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B39F2034-060B-429C-A3C8-8D791E46B327}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9CAD459-0758-4217-8ED0-96DF1F5EC68C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9CAD459-0758-4217-8ED0-96DF1F5EC68C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9CAD459-0758-4217-8ED0-96DF1F5EC68C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9CAD459-0758-4217-8ED0-96DF1F5EC68C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FE00633-1B91-4143-B1A5-BF96B2ECA56E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FE00633-1B91-4143-B1A5-BF96B2ECA56E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FE00633-1B91-4143-B1A5-BF96B2ECA56E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FE00633-1B91-4143-B1A5-BF96B2ECA56E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CC18776-125E-4318-9D24-D60110AD9697}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC18776-125E-4318-9D24-D60110AD9697}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC18776-125E-4318-9D24-D60110AD9697}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC18776-125E-4318-9D24-D60110AD9697}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE57BEF3-3F2D-4BAF-824D-E3D7BC643F63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE57BEF3-3F2D-4BAF-824D-E3D7BC643F63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE57BEF3-3F2D-4BAF-824D-E3D7BC643F63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE57BEF3-3F2D-4BAF-824D-E3D7BC643F63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE19E12D-5E2D-4EF8-9BD9-05496CC1DDE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE19E12D-5E2D-4EF8-9BD9-05496CC1DDE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE19E12D-5E2D-4EF8-9BD9-05496CC1DDE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE19E12D-5E2D-4EF8-9BD9-05496CC1DDE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

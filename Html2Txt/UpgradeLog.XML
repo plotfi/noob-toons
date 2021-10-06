@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Html2Txt">
+</Property><Property Name="Solution File" Value="C:\Users\puyan\Desktop\noobtoons\Html2Txt\Html2Txt.sln">
+</Property><Property Name="Date" Value="Tuesday, April 29, 2008">
+</Property><Property Name="Time" Value="0:50:31 AM">
+</Property></Properties><Event ErrorLevel="0" Project="Html2Txt" Source="Html2Txt.csproj" Description="Project file successfully backed up as C:\Users\puyan\Desktop\noobtoons\Html2Txt\Backup\Html2Txt.csproj">
+</Event><Event ErrorLevel="0" Project="Html2Txt" Source="Html2Txt.cs" Description="File successfully backed up as C:\Users\puyan\Desktop\noobtoons\Html2Txt\Backup\Html2Txt.cs">
+</Event><Event ErrorLevel="0" Project="Html2Txt" Source="HtmlConvert.cs" Description="File successfully backed up as C:\Users\puyan\Desktop\noobtoons\Html2Txt\Backup\HtmlConvert.cs">
+</Event><Event ErrorLevel="0" Project="Html2Txt" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\puyan\Desktop\noobtoons\Html2Txt\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Html2Txt" Source="mshome.htm" Description="File successfully backed up as C:\Users\puyan\Desktop\noobtoons\Html2Txt\Backup\mshome.htm">
+</Event><Event ErrorLevel="0" Project="Html2Txt" Source="Html2Txt.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Html2Txt" Source="Html2Txt.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Html2Txt" Source="Html2Txt.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
